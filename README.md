@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Saab Mitla Ha - Fast Food & Pakistani Cuisine</title>
+    <title>Saab Milta Ha - Fast Food & Pakistani Chaska</title>
     
     <!-- Google Fonts for English and Urdu/Sindhi -->
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Noto+Nastaliq+Urdu:wght@400;700&display=swap" rel="stylesheet">
@@ -203,8 +203,8 @@
     </header>
 
     <section class="hero">
-        <h1 id="hero-title">Welcome to Saab Mitla Ha</h1>
-        <p id="hero-subtitle">The Best Fast Food & Pakistani Cuisine</p>
+        <h1 id="hero-title">Welcome to Saab Milta Ha</h1>
+        <p id="hero-subtitle">The Best Fast Food & Pakistani Chaskae</p>
         <a href="#menu" class="cta-btn" id="hero-btn">View Menu</a>
     </section>
 
@@ -263,7 +263,7 @@
         // Translation Data
         const translations = {
             en: {
-                heroTitle: "Welcome to Saab Mitla Ha",
+                heroTitle: "Welcome to Saab Milta Ha",
                 heroSubtitle: "The Best Fast Food & Pakistani Cuisine",
                 heroBtn: "View Menu",
                 menuTitle: "Our Specials",
